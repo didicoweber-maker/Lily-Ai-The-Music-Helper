@@ -1,8 +1,0 @@
-* { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0D0D0D; --surface: #1A1A1A; --surface-light: #252525;
-  --border: #333333; --text: #FFFFFF; --text-secondary: #888888;
-  --accent: #7C3AED; --accent-pink: #EC4899;
-  --blue: #3B82F6; --emerald: #10B981; --amber: #F59E0B; --red: #EF4444;
-}
-body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
